@@ -18,9 +18,6 @@
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
 - [Sample Queries](#sample-queries)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
