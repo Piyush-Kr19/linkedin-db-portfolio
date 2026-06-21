@@ -412,17 +412,6 @@ linkedin-db-portfolio/
 
 ---
 
-## 📊 Sample Data
-
-The project includes realistic sample data for **Piyush Kumar**, a Computer Science student from KIIT University:
-
-### Profile Highlights
-- **Education**: B.Tech CSE from KIIT, Higher Secondary from Jusco School
-- **Experience**: AI Research Lab Internship, Freelance AI Engineer roles
-- **Skills**: Python (Advanced), SQL, Node.js, PostgreSQL, Data Structures
-- **Certifications**: AWS Cloud Practitioner, Google Data Analytics, Azure AI, Kaggle ML & DL
-- **Projects**: Netflix Clone, ATS Resume Analyzer
-
 ---
 
 ## 🔍 Sample Queries
