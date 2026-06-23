@@ -438,8 +438,6 @@ The `analysis_queries.sql` file includes 10 comprehensive query examples:
 
 ---
 
----
-
 ## 🎓 Learning Resources
 
 ### SQL Concepts Covered
